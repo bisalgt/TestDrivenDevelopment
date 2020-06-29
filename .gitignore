@@ -1,5 +1,6 @@
 geckodriver.log
 __pycache__
-superlists
 migrations
 tdd_project/env/
+__pycache__
+chapter1/superlists/
